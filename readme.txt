@@ -1,0 +1,1 @@
+This is a bot created to Greet every name in the history of names.
