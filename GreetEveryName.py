@@ -16,7 +16,7 @@ name = f.readline()
 while name:
     api.update_status("Hello {}! Nice to meet you.".format(name.strip()))
     name=f.readline()
-    time.sleep(3600)
+    time.sleep(1800)
 f.close()
 
 
