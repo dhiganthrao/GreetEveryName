@@ -1,2 +1,1 @@
-worker: python GreetEveryName.py 
-web: python server.py
+web: python GreetEveryName.py 
