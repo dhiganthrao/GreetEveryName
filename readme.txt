@@ -1,1 +1,1 @@
-This is a bot created to Greet every name in the history of names.
+This is a bot created to provide hospital addresses in a pincode provided by the user.
