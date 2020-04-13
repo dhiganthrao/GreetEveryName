@@ -9,8 +9,8 @@ CONSUMER_KEY = '7NId71jMVK1ZLQ5pPp3wIK6YL'
 CONSUMER_SECRET = '7FsNm7Q7hz0LuAbs1AsIpaWlibVxur9suInSKbuu9Ilbu88DDr'
 ACCESS_KEY = '1244214884683755521-fnMyyltyVhp5Sp0EH0waIRUKodj3rT'
 ACCESS_SECRET = 'uXAuA098t9zxPCYwaodmfrymvBqXZFcLFSAwUb5pmjNOw'
-covid_hospitals = pd.read_csv(path + "\ICMRTestingLabs.csv")
-hospitals = pd.read_csv(path + "\devfest.csv")
+covid_hospitals = pd.read_csv(path + "/ICMRTestingLabs.csv")
+hospitals = pd.read_csv(path + "/devfest.csv")
 
 
 auth=tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
