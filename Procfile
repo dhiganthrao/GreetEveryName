@@ -1,1 +1,1 @@
-web: python GreetEveryName.py 
+web: python HospitalBot.py 
